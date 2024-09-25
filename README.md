@@ -2,7 +2,7 @@
 
 ## Blog
 
-How to Write Mock SOQL For External Objects? [click here for the blog post](https://sudipta-deb.in/2024/09/write-mock-soql-tests-for-external-objects.html).
+How to Write Mock SOQL For External Objects? [click here for the blog post](https://sudipta-deb.in/2024/09/write-mock-soql-tests-for-external-objects.html)
 
 ## Youtube Video
 
